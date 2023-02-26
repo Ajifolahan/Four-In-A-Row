@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FourInARowAndroid</string>
+    <string name="game_name">\u0020\u0020\u0020\u0020\u0020\u0020Four In A Row</string>
+    <string name="start">START</string>
+    <string name="username">Username</string>
+    <string name="rules">\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
+        Welcome to this game.\n Every cell in the game represents a number between 0-35,so enter in a value between those numbers.
+        You need to have 4 consecutive discs to win and you can win in any direction: Vertically, Horizontally or Diagonally.\n ----Enter in your username below and
+click start</string>
+    <string name="rules_label">Rules</string>
+    <string name="button_label">RESET</string>
+    <string name="turns">IT\'S YOUR TURN</string>
+    <string name="toast">Please enter a valid name to proceed</string>
+</resources>
